@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,500);
+
+* {
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+body {
+  background-color: darkslateblue;
+  font-family: 'Lato', sans-serif;
+  margin-top: 20px;
+}
+
+h1, h3 {
+  color: lavender;
+}
