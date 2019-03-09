@@ -43,3 +43,24 @@ h1, h3 {
   padding-bottom: 10px;
   color: darkslateblue;
 }
+
+.buttons {
+  margin: auto;
+  display: block;  
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.button {
+  border: none;
+  height: 45px;
+  width: 105px;
+  background-color: darkslateblue;
+  color: lavender;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: slateblue;
+  border: none;
+}
