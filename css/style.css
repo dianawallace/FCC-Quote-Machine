@@ -64,3 +64,20 @@ h1, h3 {
   background-color: slateblue;
   border: none;
 }
+
+#new-quote {
+  float: left;
+  margin-left: 20px;
+}
+
+#tweet-quote, #pinit-quote {
+  float: right;
+  text-align: center;
+  color: lavender;
+  font-size: 1.5em;
+  margin-right: 15px;
+  padding: 0;
+  padding-top: 1px;
+  height: 40px;
+  width: 40px;
+}
