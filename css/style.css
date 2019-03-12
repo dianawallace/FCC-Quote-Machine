@@ -90,3 +90,9 @@ h1, h3 {
   color: lavender;
   text-decoration: none;
 }
+
+@media screen and (max-width: 833px) {
+  .buttons {
+    width: 80%;
+  }
+}
