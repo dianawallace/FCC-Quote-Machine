@@ -13,6 +13,7 @@ body {
 
 h1, h3 {
   color: lavender;
+  margin: 0 auto;
 }
 
 #quote-box {

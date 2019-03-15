@@ -31,7 +31,21 @@ $(document).ready(function(){
     }  
     
   getNewQuote();
-    
+ 
+ 
+   $('.getQuote').on('click', function(event){
+    event.preventDefault();
+    getNewQuote();
+  })
+  
+   window.open(href="https://twitter.com/intent/tweet?text=" + quote + author + " &hashtags=inspiration");
+  
+  })
+  
+  $('.getQuote').on('click', function(event){
+    event.preventDefault();
+    getNewQuote();
+  })
     
     
 
